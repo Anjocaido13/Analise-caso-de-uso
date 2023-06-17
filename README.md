@@ -7,16 +7,10 @@ A PDE é uma indústria de microprocessadores que fornece a garantia de teste bu
 E além de outras como:
 
 Tempo de ciclo reduzido
-• O Scrum foi um dos principais contribuintes para uma redução de 66% no tempo de ciclo.
-Desempenho para Programar
-• Estabelecemos e mantemos um planejamento baseado em capacidade e uma cadência de duas semanas por mais de um ano.
-• Nós praticamente eliminamos atrasos no cronograma e compromissos perdidos.
-• Os clientes e a alta administração estão mudando seus comportamentos para proteger
-a cadência de duas semanas.
+
+
 moral melhorada
-• Melhor comunicação e satisfação no trabalho.
-• O que era a equipe com moral mais baixa agora é a equipe de melhor desempenho.
+
 Maior Transparência
-• Levou à adoção de padrões formais, estilo CMMI, VER e VAL.
-• O Scrum descobriu bugs, impedimentos, ferramentas fracas e engenharia deficiente
+
 hábitos.
